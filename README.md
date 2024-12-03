@@ -21,13 +21,23 @@ In this survey, we offer an exhaustive
 ***
 
 ## 2. Segmentation Knowledge Emerges From FMS
+Given the emergency capabilities of LLMs, a natural ques
+tion arises: Do segmentation properties emerge from FMs? The
+ answer is positive, even for FMs not explicitly designed for
+ segmentation, such as CLIP, DINO and Diffusion Models. This unlocking a new frontier in image segmentation,
+ i.e., acquiring segmentation without any training. The following figure illustrates how to approach this and shows some examples:
+
+<p align="center">
+  <img src="segmentation emerge.PNG" width="500">
+</p>
+
 - [2.1 Segmentation Emerges from CLIP]()
 - [2.2 Segmentation Emerges from DMs]()
 - [2.3 Segmentation Emerges from DINO]()
 
 ***
 
-## 3. Foundation model based GIS
+## 3. Foundation Model based GIS
 - [3.1 Semantic Segmentation]()
   - [3.1.1 CLIP-based Solution]()
   - [3.1.2 DM-based Solution]()
@@ -47,20 +57,21 @@ In this survey, we offer an exhaustive
 
 ***
 
-## 4. Foundation model based PIS
-- [4.1 Interactive Segmentation]()
-  - [4.1.1 SAM-based Solution]()
-- [4.2 Referring Segmentation]()
-  - [4.2.1 DM-based Solution]()
-  - [4.2.2 CLIP-based Solution]()
-  - [4.2.3 Composition of FMs]()
-- [4.3 Few-shot Segmentation]()
-  - [4.3.1 CLIP-based Solution]()
-  - [4.3.2 DM-based Solution]()
-  - [4.3.3 DINO-based Solution]()
-  - [4.3.4 SAM-based Solution]()
-  - [4.3.5 MLLMs-based Solution]()
-  - [4.3.6 In-Context Segmentation]()
+## 4. Foundation Model based PIS
+- [4.1 Interactive Segmentation](4-PIS.md#41-interactive-segmentation)
+  - [4.1.1 SAM-based Solution](4-PIS.md#411-sam-based-solution)
+- [4.2 Referring Segmentation](4-PIS.md#42-referring-segmentation)
+  - [4.2.1 CLIP-based Solution](4-PIS.md#421-clip-based-solution)
+  - [4.2.2 DM-based Solution](4-PIS.md#422-dm-based-solution)
+  - [4.2.3 LLMs/MLLMs-based Solution](4-PIS.md#423-llmsmllms-based-solution)
+  - [4.2.4 Composition of FMs](4-PIS.md#424-composition-of-fms)
+- [4.3 Few-shot Segmentation](4-PIS.md#43-few-shot-segmentation)
+  - [4.3.1 CLIP-based Solution](4-PIS.md#431-clip-based-solution)
+  - [4.3.2 DM-based Solution](4-PIS.md#432-dm-based-solution)
+  - [4.3.3 DINO-based Solution](4-PIS.md#433-dino-based-solution)
+  - [4.3.4 SAM-based Solution](4-PIS.md#434-sam-based-solution)
+  - [4.3.5 LLMs/MLLMs-based Solution](4-PIS.md#435-mllms-based-solution)
+  - [4.3.6 In-Context Segmentation](4-PIS.md#436-in-context-segmentation)
 ## Citation
 
 If you find our survey and repository useful, please consider citing our paper:

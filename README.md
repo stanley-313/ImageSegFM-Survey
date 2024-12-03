@@ -1,5 +1,5 @@
 # Image Segmentation in Foundation Model Era: A Survey
-***
+
 This repository complies a collection of resources on image segmentation in foundation model era, 
 and will be  continuously updated to track developments in the field. 
 Please feel free to submit a pull request if you find any work missing.
@@ -20,12 +20,12 @@ In this survey, we offer an exhaustive
 
 ***
 
-## 2. Segmentation Knowledge Emerges From FMS
+## 2. Segmentation Knowledge Emerges From FMs
 Given the emergency capabilities of LLMs, a natural ques
-tion arises: Do segmentation properties emerge from FMs? The
- answer is positive, even for FMs not explicitly designed for
+tion arises: *Do segmentation properties emerge from FMs?* The
+ answer is **positive**, even for FMs not explicitly designed for
  segmentation, such as CLIP, DINO and Diffusion Models. This unlocking a new frontier in image segmentation,
- i.e., acquiring segmentation without any training. The following figure illustrates how to approach this and shows some examples:
+ i.e., **acquiring segmentation without any training.** The following figure illustrates how to approach this and shows some examples:
 
 <p align="center">
   <img src="segmentation emerge.PNG" width="500">

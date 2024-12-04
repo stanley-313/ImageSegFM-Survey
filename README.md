@@ -24,7 +24,7 @@
    </p>
    
   <p align="center">
-    <a href='[https://arxiv.org/abs/2107.01153](https://arxiv.org/pdf/2408.12957)'>
+    <a href='https://arxiv.org/pdf/2408.12957'>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
     </a>
     <a href='https://github.com/tfzhou/VS-Survey' style='padding-left: 0.5rem;'>

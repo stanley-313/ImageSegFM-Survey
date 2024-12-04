@@ -12,9 +12,7 @@
     <a href=""><strong>Fei Zhang</strong></a>
     ,
     <a href=""><strong> Boyu Chang</strong></a>
-       ,
-    <a href=""><strong> Boyu Chang</strong></a>
-       ,
+              ,
     <a href="https://sites.google.com/view/wenguanwang"><strong>Wenguan Wang</strong></a>
     ,
     <a href=""><strong>Ye Yuan</strong></a>

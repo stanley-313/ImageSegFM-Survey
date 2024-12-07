@@ -1,3 +1,5 @@
+# 3. Foundation Model based GIS
+
 ## 3.2 Instance Segmentation
 ### 3.2.1 CLIP-based Solution
 | Year  |    Publication     | Paper Title                                                                                                                                                                                                                                              |                                             Project                                              |

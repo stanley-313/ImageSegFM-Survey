@@ -77,12 +77,12 @@ Given the emergency capabilities of LLMs, a natural question arises: *Do segment
 ***
 
 ## 3. Foundation Model based GIS
-- [3.1 Semantic Segmentation]()
-  - [3.1.1 CLIP-based Solution]()
-  - [3.1.2 DM-based Solution]()
-  - [3.1.3 DINO-based Solution]()
-  - [3.1.4 SAM-based Solution]()
-  - [3.1.5 Composition of FMs]()
+- [3.1 Semantic Segmentation](3-GIS.md#31-semantic-segmentation)
+  - [3.1.1 CLIP-based Solution](3-GIS.md#311-clip-based-solution)
+  - [3.1.2 DM-based Solution](3-GIS.md#312-dm-based-solution)
+  - [3.1.3 DINO-based Solution](3-GIS.md#313-dino-based-solution)
+  - [3.1.4 SAM-based Solution](3-GIS.md#314-sam-based-solution)
+  - [3.1.5 Composition of FMs](3-GIS.md#315-composition-of-fms)
 - [3.2 Instance Segmentation](3-GIS.md#32-instance-segmentation)
   - [3.2.1 CLIP-based Solution](3-GIS.md#321-clip-based-solution)
   - [3.2.2 DM-based Solution](3-GIS.md#322-dm-based-solution)
@@ -93,6 +93,7 @@ Given the emergency capabilities of LLMs, a natural question arises: *Do segment
   - [3.3.2 DM-based Solution](3-GIS.md#332-dm-based-solution)
   - [3.3.3 DINO-based Solution](3-GIS.md#333-dino-based-solution)
   - [3.3.4 SAM-based Solution](3-GIS.md#334-sam-based-solution)
+
 
 ***
 

@@ -83,16 +83,17 @@ Given the emergency capabilities of LLMs, a natural question arises: *Do segment
   - [3.1.3 DINO-based Solution](3-GIS.md#313-dino-based-solution)
   - [3.1.4 SAM-based Solution](3-GIS.md#314-sam-based-solution)
   - [3.1.5 Composition of FMs](3-GIS.md#315-composition-of-fms)
-- [3.2 Instance Segmentation]()
-  - [3.2.1 CLIP-based Solution]()
-  - [3.2.2 DM-based Solution]()
-  - [3.2.3 DINO-based Solution]()
-  - [3.2.4 Composition of FMs]()
-- [3.3 Panoptic Segmentation]()
-  - [3.3.1 CLIP-based Solution]()
-  - [3.3.2 DM-based Solution]()
-  - [3.3.3 DINO-based Solution]()
-  - [3.3.4 SAM-based Solution]()
+- [3.2 Instance Segmentation](3-GIS.md#32-instance-segmentation)
+  - [3.2.1 CLIP-based Solution](3-GIS.md#321-clip-based-solution)
+  - [3.2.2 DM-based Solution](3-GIS.md#322-dm-based-solution)
+  - [3.2.3 DINO-based Solution](3-GIS.md#323-dino-based-solution)
+  - [3.2.4 Composition of FMs](3-GIS.md#324-composition-of-fms)
+- [3.3 Panoptic Segmentation](3-GIS.md#33-panoptic-segmentation)
+  - [3.3.1 CLIP-based Solution](3-GIS.md#331-clip-based-solution)
+  - [3.3.2 DM-based Solution](3-GIS.md#332-dm-based-solution)
+  - [3.3.3 DINO-based Solution](3-GIS.md#333-dino-based-solution)
+  - [3.3.4 SAM-based Solution](3-GIS.md#334-sam-based-solution)
+
 
 ***
 

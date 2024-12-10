@@ -70,9 +70,9 @@ Given the emergency capabilities of LLMs, a natural question arises: *Do segment
   <img src="segmentation emerge.PNG" width="500">
 </p>
 
-- [2.1 Segmentation Emerges from CLIP]()
-- [2.2 Segmentation Emerges from DMs]()
-- [2.3 Segmentation Emerges from DINO]()
+- [2.1 Segmentation Emerges from CLIP](2-Segmentation%20Emerge.md#21-segmentation-emerges-from-clip)
+- [2.2 Segmentation Emerges from DMs](2-Segmentation%20Emerge.md#22-segmentation-emerges-from-dms)
+- [2.3 Segmentation Emerges from DINO](2-Segmentation%20Emerge.md#23-segmentation-emerges-from-dino)
 
 ***
 
